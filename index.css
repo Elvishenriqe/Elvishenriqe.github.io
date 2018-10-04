@@ -92,7 +92,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url("https://github.com/Elvishenriqe/elvishenriqe.github.io/blob/master/img/Slide1.png?raw=true");
+  background-image: url("https://raw.githubusercontent.com/Elvishenriqe/elvishenriqe.github.io/master/img/Slide1.png");
   text-align: center;
   color: white;
 }
