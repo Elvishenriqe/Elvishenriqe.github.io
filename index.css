@@ -4,6 +4,10 @@ body{
     width: 100%;
 }
 
+.a#empresas.navButton{
+  color:#4CAF50;
+}
+
 /* INÍCIO DA EDIÇÃO NAVBAR  */
 /* Atera a cor da borda e do fundo do nav-bar. Navbar-inverse é o tipo de navbar usado no html  */
 .navbar-inverse{
@@ -11,8 +15,6 @@ body{
     border-color: transparent;
     transition: background-color 0.2s;
 }
-
-
 
 /* Atera a cor do nome do site. Brand refere-se ao nome do site  */
 /* Também altera a fonte do nome do site e a largura dela. Tbm adiciona o ícone */
@@ -73,6 +75,10 @@ background-color: #061629;
 .container-fluid-navbar{ /*cor do restante do navbar */
   background-color: #061629;
 }
+.navbar-fixed-top{
+  color: #fff;
+}
+
 #mainNav.navbar.navbar-inverse.navbar-fixed-top{
   background-color: #061629;
   border-color: #061629;
@@ -94,7 +100,7 @@ header {
   background-position: center;
   background-image: url("https://raw.githubusercontent.com/Elvishenriqe/elvishenriqe.github.io/master/img/Slide1.png");
   text-align: center;
-  color: white;
+  color: rgb(252, 243, 243);
 }
 /* Altera a posição, o alinhamento da div, o padding da div e a largura da div, que está nomeado pela classe header-conteudo*/
 header .header-conteudo {
